@@ -1,0 +1,729 @@
+,Country,Country_Code,City,Airport_Name,Airport_Code
+0,Albania,AL,Tirana,Tirana International Airport Nene Tereza,TIA
+1,Armenia,AM,Gyumri,Shirak Airport,LWN
+2,Armenia,AM,Yerevan,Zvartnots International Airport,EVN
+3,Austria,AT,Graz,Flughafen Graz,GRZ
+4,Austria,AT,Innsbruck,Innsbruck Airport,INN
+5,Austria,AT,Klagenfurt,Klagenfurt Airport,KLU
+6,Austria,AT,Linz,Flughafen Linz,LNZ
+7,Austria,AT,Salzburg,Flughafen Salzburg W.A.Mozart,SZG
+8,Austria,AT,Vienna,Vienna International Airport,VIE
+9,Azerbaijan,AZ,Baku,Heydar Aliyev International Airport,GYD
+10,Azerbaijan,AZ,Ganja,Ganja International Airport,KVD
+11,Azerbaijan,AZ,Lankaran,Lankaran International Airport,LLK
+12,Azerbaijan,AZ,Qabala,Qabala International Airport,GBB
+13,Azerbaijan,AZ,Zaqatala,Zaqatala Airport,ZTU
+14,Belarus,BY,Minsk,Minsk National Airport,MSQ
+15,Belgium,BE,Antwerp,Antwerp Airport,ANR
+16,Belgium,BE,Brussels,Brussels Airport,BRU
+17,Belgium,BE,Charleroi,Brussels South-Charleroi Airport,CRL
+18,Belgium,BE,Liege,LiÃ¨ge Airport,LGG
+19,Belgium,BE,Ostend,Ostend-Bruges International Airport,OST
+20,Bosnia and Herzegovina,BA,Banja Luka,Banja Luka Airport,BNX
+21,Bosnia and Herzegovina,BA,Mostar,Aerodrom Mostar d.o.o.,OMO
+22,Bosnia and Herzegovina,BA,Sarajevo,Sarajevo International Airport,SJJ
+23,Bosnia and Herzegovina,BA,Tuzla,Tuzla Airport,TZL
+24,Bulgaria,BG,Bourgas,Bourgas Airport,BOJ
+25,Bulgaria,BG,Gorna Oryahovitsa,Gorna Oryahovitsa Airport,GOZ
+26,Bulgaria,BG,Plovdiv,Plovdiv Airport,PDV
+27,Bulgaria,BG,Sofia,Sofia Airport,SOF
+28,Bulgaria,BG,Varna,Varna International Airport,VAR
+29,Croatia,HR,Dubrovnik,Dubrovnik Airport,DBV
+30,Croatia,HR,Osijek,Osijek Airport,OSI
+31,Croatia,HR,Pula,Pula Airport,PUY
+32,Croatia,HR,Rijeka,Rijeka Airport,RJK
+33,Croatia,HR,Split,Split Airport,SPU
+34,Croatia,HR,Zadar,Zadar Airport,ZAD
+35,Croatia,HR,Zagreb,Zagreb Airport,ZAG
+36,Cyprus,CY,Larnaca,Larnaka International Airport,LCA
+37,Cyprus,CY,Paphos,Pafos International Airport,PFO
+38,Czech Republic,CZ,Brno,Brno Turany Airport,BRQ
+39,Czech Republic,CZ,Karlovy Vary,Karlovy Vary Airport,KLV
+40,Czech Republic,CZ,Ostrava,Ostrava Leos Janacek Airport,OSR
+41,Czech Republic,CZ,Pardubice,Pardubice Airport,PED
+42,Czech Republic,CZ,Prague,Prague Airport,PRG
+43,Denmark,DK,Aalborg,Aalborg Airport,AAL
+44,Denmark,DK,Aarhus,Aarhus Airport,AAR
+45,Denmark,DK,Billund,Billund Airport,BLL
+46,Denmark,DK,Bornholm,Bornholm Airport,RNN
+47,Denmark,DK,Copenhagen,Copenhagen Airport,CPH
+48,Denmark,DK,Copenhagen,Roskilde Airport,RKE
+49,Denmark,DK,Esbjerg,Esbjerg Airport,EBJ
+50,Denmark,DK,Karup,Karup Airport,KRP
+51,Denmark,DK,SÃ¸nderborg,Sonderborg Airport,SGD
+52,Denmark,DK,Thisted,Thisted Airport,TED
+53,Estonia,EE,Tallinn,Tallinn Airport,TLL
+54,Faroe Islands,FO,Sorvagur,Vagar Airport,FAE
+55,Finland,FI,EnontekiÃ¶,EnontekiÃ¶ Airport,ENF
+56,Finland,FI,Halli,Halli Airport,KEV
+57,Finland,FI,Helsinki,Helsinki-Vantaa Airport,HEL
+58,Finland,FI,Ivalo,Ivalo Airport,IVL
+59,Finland,FI,Joensuu,Joensuu Airport,JOE
+60,Finland,FI,Kajaani,Kajaani Airport,KAJ
+61,Finland,FI,Kauhava,Kauhava Airport,KAU
+62,Finland,FI,Kemi-Tornio,Kemi-Tornio Airport,KEM
+63,Finland,FI,KittilÃ¤,KittilÃ¤ Airport,KTT
+64,Finland,FI,Kronoby,Kokkola-Pietarsaari Airport,KOK
+65,Finland,FI,Kuopio,Kuopio Airport,KUO
+66,Finland,FI,Kuusamo,Kuusamo Airport,KAO
+67,Finland,FI,Lappeenranta,Lappeenranta Airport,LPP
+68,Finland,FI,Maarianhamina,Maarianhamina Airport,MHQ
+69,Finland,FI,Oulunsalo,Oulu Airport,OUL
+70,Finland,FI,Pori,Pori Airport,POR
+71,Finland,FI,Rovaniemi,Rovaniemi Airport,RVN
+72,Finland,FI,Savonlinna,Savonlinna Airport,SVL
+73,Finland,FI,Tampere,Tampere-Pirkkala Airport,TMP
+74,Finland,FI,Tikkakoski,Tikkakoski JyvÃ¤skylÃ¤ Airport,JYV
+75,Finland,FI,Turku,Turku Airport,TKU
+76,Finland,FI,Utti,Utti Airport,UTI
+77,Finland,FI,Vaasa,Vaasa Airport,VAA
+78,Finland,FI,Varkaus,Varkaus Airport,VRK
+79,France,FR,Agen,AÃ©roport d'Agen,AGF
+80,France,FR,Aix-en-Provence,Aix-en-Provence Aerodrome,QXB
+81,France,FR,Ajaccio,AÃ©roport d'Ajaccio Napoleon Bonaparte,AJA
+82,France,FR,Albert,Aeroport Albert Picardie,BYF
+83,France,FR,Albi / Le Sequestre,Albi - Le Sequestre Aerodrome,LBI
+84,France,FR,Amiens / Glisy,Amiens - Glisy Aerodrome,QAM
+85,France,FR,Angouleme,AÃ©roport d'AngoulÃªme-Cognac,ANG
+86,France,FR,Annecy,AÃ©roport Annecy Mont Blanc,NCY
+87,France,FR,Arnage,Le Mans-Arnage Airport,LME
+88,France,FR,Arras / Roclincourt,Arras - Roclincourt Airport,QRV
+89,France,FR,Aubenas / ArdÃ¨che MÃ©ridional,Aubenas - ArdÃ¨che MÃ©ridional Aerodrome,OBS
+90,France,FR,Aurillac,AÃ©roport d'Aurillac-TronquiÃ¨res,AUR
+91,France,FR,Auxerre,Auxerre-Branches Airport,AUF
+92,France,FR,Avignon,AÃ©roport d'Avignon-Provence,AVN
+93,France,FR,Bains sur Oust,AÃ©rodrome de Redon - Bains-sur-Oust,XRN
+94,France,FR,Barberey Saint Sulpice,AÃ©roport Troyes en Champagne,QYR
+95,France,FR,Bastia,AÃ©roport de Bastia-Poretta,BIA
+96,France,FR,Beauvais,AÃ©roport de Beauvais-Tille,BVA
+97,France,FR,Bergerac,AÃ©roport de Bergerac Dordogne PÃ©rigord,EGC
+98,France,FR,BesanÃ§on / La VÃ¨ze,BesanÃ§on - La VÃ¨ze Aerodrome,QBQ
+99,France,FR,BÃ©ziers,AÃ©roport BÃ©ziers Cap d'Agde,BZR
+100,France,FR,Biarritz,AÃ©roport de Biarritz-Anglet-Bayonne,BIQ
+101,France,FR,Blois / Le Breuil,Blois - Le Breuil Airport,XBQ
+102,France,FR,Bordeaux,AÃ©roport de Bordeaux,BOD
+103,France,FR,Bourges,Bourges Airport,BOU
+104,France,FR,Brest,Brest Bretagne AÃ©roport,BES
+105,France,FR,Brive-la-Gaillarde,Brive-La Roche Airport,BVE
+106,France,FR,Caen,AÃ©roport de Caen-Carpiquet,CFR
+107,France,FR,Cahors / Lalbenque,Cahors - Lalbenque Airport,ZAO
+108,France,FR,Calais / Dunkerque,AÃ©roport de Calais - Dunkerque,CQF
+109,France,FR,Calvi,AÃ©roport de Calvi-Sainte Catherine,CLY
+110,France,FR,Cannes,AÃ©roport Cannes-Mandelieu,CEQ
+111,France,FR,Carcassonne,AÃ©roport de Carcassonne,CCF
+112,France,FR,Castellet,L'aÃ©roport du Castellet,CTT
+113,France,FR,Castres / Mazamet,AÃ©roport de Castres - Mazamet,DCM
+114,France,FR,Chalon,AÃ©roport de Chalon - Champforgeuil,XCD
+115,France,FR,Chambery,AÃ©roport de ChambÃ©ry/Savoie,CMF
+116,France,FR,ChÃ¢teauroux,AÃ©roport ChÃ¢teauroux-Centre,CHR
+117,France,FR,Chavenay / Villepreux,Chavenay - Villepreux Aerodrome,XZX
+118,France,FR,Chelles / Le Pin,Chelles - Le Pin Aerodrome,XXY
+119,France,FR,Cherbourg,AÃ©roport de Cherbourg - Maupertus,CER
+120,France,FR,Cholet / Le Pontreau,Cholet - Le Pontreau Aerodrome,CET
+121,France,FR,Clermont-Ferrand,AÃ©roport de Clermont-Ferrand Auvergne,CFE
+122,France,FR,Cognac / ChÃ¢teaubernard,Cognac - ChÃ¢teaubernard Air Base,CNG
+123,France,FR,Colmar,AÃ©roport de Colmar - Houssen,CMR
+124,France,FR,Coulommiers / Voisins,Coulommiers - Voisins Aerodrome,XWA
+125,France,FR,Deauville,AÃ©roport de Deauville - Saint-Gatien,DOL
+126,France,FR,Dijon,AÃ©roport Dijon-Bourgogne,DIJ
+127,France,FR,Dinard,AÃ©roport de Dinard Pleurtuit,DNR
+128,France,FR,Dole,AÃ©roport de DÃ´le-Jura,DLE
+129,France,FR,Figari,AÃ©roport de Figari Sud Corse,FSC
+130,France,FR,Gap-Tallard,AÃ©roport de Gap-Tallard,GAT
+131,France,FR,Granville / Mont Saint-Michel,Granville - Mont Saint-Michel Aerodrome,GFR
+132,France,FR,Grenoble,AÃ©roport de Grenoble-IsÃ¨re,GNB
+133,France,FR,GuÃ©ret / Saint-Laurent,GuÃ©ret - Saint-Laurent Airport,XGT
+134,France,FR,Ile d'Yeu,AÃ©rodrome d'Ile d'Yeu - Grand Phare,IDY
+135,France,FR,Issy-les-Moulineaux,Paris - Issy-les-Moulineaux Heliport,JDP
+136,France,FR,La Baule-Escoublac,La Baule - Pornichet - Le Pouliguen Airport,LBY
+137,France,FR,La Rochelle,AÃ©roport de La Rochelle-Ile de RÃ©,LRH
+138,France,FR,La Roche-sur-Yon / Les Ajoncs,La Roche-sur-Yon Aerodrome,EDM
+139,France,FR,Lannion,AÃ©roport de Lannion - CÃ´te de Granit,LAI
+140,France,FR,Laval / Entrammes,Laval-Entrammes Airport,LVA
+141,France,FR,Le Havre,AÃ©roport Le Havre Octeville,LEH
+142,France,FR,Le Puy-en-Velay,Le Puy - Loudes Airport,LPY
+143,France,FR,Le Touquet,AÃ©roport de Le Touquet - CÃ´te d'Opale,LTQ
+144,France,FR,Lille,AÃ©roport de Lille-Lesquin,LIL
+145,France,FR,Limoges,AÃ©roport International de Limoges,LIG
+146,France,FR,Lognes / Ãmerainville,Lognes - Ãmerainville Aerodrome,XLG
+147,France,FR,Lorient,AÃ©roport de Lorient-Bretagne Sud,LRT
+148,France,FR,Lourdes,AÃ©roport Tarbes-Lourdes PyrÃ©nÃ©es,LDE
+149,France,FR,Lyon,AÃ©roport de Lyon-Bron,LYN
+150,France,FR,Lyon,AÃ©roport de Lyon-Saint ExupÃ©ry,LYS
+151,France,FR,MÃ¢con / Charnay,MÃ¢con - Charnay Airport,QNX
+152,France,FR,Marce,Angers Loire AÃ©roport,ANE
+153,France,FR,Marseille,AÃ©roport Marseille Provence,MRS
+154,France,FR,Maubeuge / Ãlesmes,Maubeuge Aerodrome,XME
+155,France,FR,Meaux / Esbly,Meaux - Esbly Aerodrome,XYB
+156,France,FR,MegÃ¨ve,Altiport de MegÃ¨ve,MVV
+157,France,FR,Merville / Calonne,Merville - Calonne Airport,HZB
+158,France,FR,Metz,Metz Nancy Lorraine,ETZ
+159,France,FR,MontbÃ©liard,AÃ©rodrome de MontbÃ©liard - Courcelles,XMF
+160,France,FR,MontluÃ§on / GuÃ©ret,MontluÃ§on - GuÃ©ret Airport,MCU
+161,France,FR,Montpellier,AÃ©roport de Montpellier-MÃ©diterranÃ©e,MPL
+162,France,FR,Morlaix / Ploujean,Morlaix - Ploujean Airport,MXN
+163,France,FR,Moulins / Montbeugny,Moulins - Montbeugny Airport,XMU
+164,France,FR,Nancy,Nancy - Essey Airport,ENC
+165,France,FR,Nantes,AÃ©roport Nantes Atlantique,NTE
+166,France,FR,Nevers,L'aÃ©roport de Nevers-Fourchambault,NVS
+167,France,FR,Nice,AÃ©roport Nice CÃ´te d'Azur,NCE
+168,France,FR,Nimes,AÃ©roport de NÃ®mes-Arles-Camargue,FNI
+169,France,FR,Niort / SouchÃ©,Niort - SouchÃ© Airport,NIT
+170,France,FR,OrlÃ©ans / Saint-Denis-de-l'HÃ´tel,OrlÃ©ans - Saint-Denis-de-l'HÃ´tel Airport,ORE
+171,France,FR,Paris,AÃ©roport de Paris-Charles de Gaulle,CDG
+172,France,FR,Paris,AÃ©roport de Paris-Orly,ORY
+173,France,FR,Paris / Le Bourget,Paris - Le Bourget Airport,LBG
+174,France,FR,Pau,AÃ©roport de Pau-PyrÃ©nÃ©es,PUF
+175,France,FR,Perigueux,AÃ©roport de Perigueux-Bassillac,PGX
+176,France,FR,Perpignan,AÃ©roport de Perpignan-Rivesaltes,PGF
+177,France,FR,Persan / Beaumont,Persan - Beaumont Airport,XYP
+178,France,FR,Poitiers,Aeroport Poitiers Biard,PIS
+179,France,FR,Pontoise,AÃ©rodrome de Pontoise - Cormeilles,POX
+180,France,FR,Prunay,AÃ©roport de Reims en Champagne,RPK
+181,France,FR,Quimper,AÃ©roport de Quimper-Cornouaille,UIP
+182,France,FR,Reims,AÃ©roport de Reims-en Champagne,RHE
+183,France,FR,Rennes,AÃ©roport de Rennes,RNS
+184,France,FR,Roanne / Renaison,Roanne Renaison Airport,RNE
+185,France,FR,Rochefort / Saint-Agnant,Rochefort â Saint-Agnant Airport,RCO
+186,France,FR,Rodez,Rodez-Aveyron Airport,RDZ
+187,France,FR,Rouen,AÃ©roport Rouen VallÃ©e de Seine,URO
+188,France,FR,Royan / MÃ©dis,Royan - MÃ©dis Aerodrome,RYN
+189,France,FR,Saint-Brieuc,AÃ©roport de Saint-Brieuc - Armor,SBK
+190,France,FR,Saint-CrÃ©pin,Mont-Dauphin-Saint-CrÃ©pin Airport,SCP
+191,France,FR,Saint-Cyr-l'Ãcole,Saint-Cyr-l'Ãcole Aerodrome,XZB
+192,France,FR,Saint-Ãtienne,AÃ©roport de Boutheon,EBU
+193,France,FR,Saint-Nazaire,AÃ©roport de Saint Nazaire-Montoir,SNR
+194,France,FR,Saint-Tropez,AÃ©roport Saint-Tropez,LTT
+195,France,FR,Saint-Yan,Saint-Yan Airport,SYT
+196,France,FR,Saumur / Saint-Florent,Saumur - Saint-Hilaire - Saint-Florent Aerodrome,XSU
+197,France,FR,Strasbourg,AÃ©roport de Strasbourg,SXB
+198,France,FR,Toulon,AÃ©roport de Toulon-HyÃ¨res,TLN
+199,France,FR,Toulouse,AÃ©roport de Toulouse-Blagnac,TLS
+200,France,FR,Tours,AÃ©roport de Tours Val de Loire,TUF
+201,France,FR,Toussus-le-Noble,Toussus-le-Noble Airport,TNF
+202,France,FR,Valence,AÃ©roport de Chabeuil,VAF
+203,France,FR,Valenciennes,Valenciennes-Denain Airport,XVS
+204,France,FR,Vannes,AÃ©roport de Vannes,VNE
+205,France,FR,Vatry,AÃ©roport de Paris Vatry,XCR
+206,France,FR,Vichy,AÃ©roport de Vichy-Charmeil,VHY
+207,France,FR,Vosges,AÃ©roport d'Epinal-Mirecourt,EPL
+208,Georgia,GE,Batumi,Batumi International Airport,BUS
+209,Georgia,GE,Kutaisi,King David The Builder Kutaisi International Airport,KUT
+210,Georgia,GE,Tbilisi,TbilisiÂ  International Airport,TBS
+211,Germany,DE,Baden Baden,Karlsruhe/Baden-Baden Airport,FKB
+212,Germany,DE,Berlin,Berlin Brandenburg Airport,BER
+213,Germany,DE,Berlin,Schoenefeld Airport,SXF
+214,Germany,DE,Berlin,Tegel Airport,TXL
+215,Germany,DE,Bremen,Flughafen Bremen,BRE
+216,Germany,DE,Cologne,KÃ¶ln-Bonn Airport,CGN
+217,Germany,DE,Dortmund,Flughafen Dortmund,DTM
+218,Germany,DE,Dresden,Flughafen Dresden,DRS
+219,Germany,DE,DÃ¼sseldorf,DÃ¼sseldorf International Airport,DUS
+220,Germany,DE,Erfurt,Flughafen Erfurt-Weimar,ERF
+221,Germany,DE,Frankfurt,Flughafen Frankfurt/Main,FRA
+222,Germany,DE,Friedrichshafen,Flughafen Friedrichshafen,FDH
+223,Germany,DE,Hahn,Flughafen Frankfurt-Hahn,HHN
+224,Germany,DE,Hamburg,Flughafen Hamburg,HAM
+225,Germany,DE,Hanover,Flughafen Hannover,HAJ
+226,Germany,DE,Leipzig,Flughafen Leipzig/Halle,LEJ
+227,Germany,DE,Lippstadt,Flughafen Paderborn/Lippstadt,PAD
+228,Germany,DE,Memmingerberg,Memmingen Airport,FMM
+229,Germany,DE,Munich,Munich Airport,MUC
+230,Germany,DE,MÃ¼nster,Flughafen MÃ¼nster/OsnabrÃ¼ck,FMO
+231,Germany,DE,Nuremberg,Flughafen International Nuremberg,NUE
+232,Germany,DE,Rostock,Flughafen Rostock-Laage,RLG
+233,Germany,DE,Saarbruecken,Saarbruecken Airport,SCN
+234,Germany,DE,Stuttgart,Flughafen Stuttgart,STR
+235,Germany,DE,Weeze,Weeze Airport / Niederrhein Airport,NRN
+236,Gibraltar,GI,Gibraltar,Gibraltar Airport,GIB
+237,Greece,GR,Alexandroupolis,Alexandroupolis International Airport Democritos,AXD
+238,Greece,GR,Araxos/Patras,Araxos Airport,GPA
+239,Greece,GR,Astypalaia,Astypalaia Island National Airport,JTY
+240,Greece,GR,Athens,Athens International Airport,ATH
+241,Greece,GR,Chania,Chania International Airport,CHQ
+242,Greece,GR,Chios,Chios Island National Airport,JKH
+243,Greece,GR,Heraklion,Heraklion International Airport,HER
+244,Greece,GR,Ikaria,Ikaria Island National Airport,JIK
+245,Greece,GR,Ioannina,Ioannina National Airport,IOA
+246,Greece,GR,Kalamata,Kalamata International Airport,KLX
+247,Greece,GR,Kalymnos,Kalymnos National Airport,JKL
+248,Greece,GR,Karpathos,Karpathos Island National Airport,AOK
+249,Greece,GR,Kasos,Kasos Airport,KSJ
+250,Greece,GR,Kastelorizo,Kastelorizo Airport,KZS
+251,Greece,GR,Kastoria,Kastoria National Airport,KSO
+252,Greece,GR,Kavala,Kavala International Airport,KVA
+253,Greece,GR,Kefallinia,Kefallinia Island International Airport,EFL
+254,Greece,GR,Kerkyra,Corfu (Kerkyra) International Airport,CFU
+255,Greece,GR,Kithira,Kythira Island National Airport,KIT
+256,Greece,GR,Kos,Kos Island International Airport,KGS
+257,Greece,GR,Kozani,Kozani National Airport,KZI
+258,Greece,GR,Leros,Leros Island National Airport,LRS
+259,Greece,GR,Limnos,Limnos Airport,LXS
+260,Greece,GR,Mikonos,Mykonos Airport,JMK
+261,Greece,GR,Milos,Milos Airport,MLO
+262,Greece,GR,Mytilene,Mytilini International Airport,MJT
+263,Greece,GR,Naxos,Naxos Island National Airport,JNX
+264,Greece,GR,Paros,Paros National Airport,PAS
+265,Greece,GR,Preveza/Lefkas,Aktion Airport,PVK
+266,Greece,GR,Rhodes,Rhodes International Airport,RHO
+267,Greece,GR,Samos,Samos International Airport,SMI
+268,Greece,GR,Santorini/Thira,Santorini (Thira) National Airport,JTR
+269,Greece,GR,Sitia,Sitia Airport,JSH
+270,Greece,GR,Skiathos,Skiathos Airport,JSI
+271,Greece,GR,Skiros,Skyros Airport,SKU
+272,Greece,GR,Syros Island,Syros Island National Airport,JSY
+273,Greece,GR,Thessaloniki,Thessaloniki International Airport,SKG
+274,Greece,GR,Volos,Nea Anchialos National Airport,VOL
+275,Greece,GR,Zakynthos Island,Zakynthos International Airport,ZTH
+276,Hungary,HU,Budapest,Budapest Ferenc Liszt International Airport,BUD
+277,Iceland,IS,Akureyri,Akureyri Airport,AEY
+278,Iceland,IS,EgilsstaÃ°ir,EgilsstaÃ°ir Airport,EGS
+279,Iceland,IS,Grimsey,Grimsey Airport,GRY
+280,Iceland,IS,Hofn,Hornafjordur Airport,HFN
+281,Iceland,IS,Husavik,Husavik Airport,HZK
+282,Iceland,IS,Isafjordur,Isafjordur Airport,IFJ
+283,Iceland,IS,Keflavik,Keflavik International Airport,KEF
+284,Iceland,IS,Reykjavik,ReykjavÃ­k Airport,RKV
+285,Iceland,IS,Vestmannaeyjar,Vestmannaeyjar Airport,VEY
+286,Ireland,IE,Cork,Cork Airport,ORK
+287,Ireland,IE,Dublin,Dublin Airport,DUB
+288,Ireland,IE,Killarney,Kerry Airport,KIR
+289,Ireland,IE,Knock,Ireland West Airport Knock,NOC
+290,Ireland,IE,Shannon,Shannon Airport,SNN
+291,Ireland,IE,Waterford,Waterford Airport,WAT
+292,Italy,IT,Albenga,Albenga Airport,ALL
+293,Italy,IT,Alghero,Alghero Airport,AHO
+294,Italy,IT,Ancona,Ancona airport,AOI
+295,Italy,IT,Aosta,Aosta Valley Airport,AOT
+296,Italy,IT,Bari,Aeroporto di Bari,BRI
+297,Italy,IT,Bologna,Aeroporto G. Marconi di Bologna S.p.A.,BLQ
+298,Italy,IT,Bolzano,Bolzano Airport,BZO
+299,Italy,IT,Brindisi,Aeroporto di Brindisi,BDS
+300,Italy,IT,Cagliari,Aeroporto Cagliari Elmas,CAG
+301,Italy,IT,Catania,Catania Fontanarossa Airport,CTA
+302,Italy,IT,Comiso,Comiso Airport,CIY
+303,Italy,IT,Crotone,Crotone Airport,CRV
+304,Italy,IT,Cuneo,Cuneo Levaldigi Airport,CUF
+305,Italy,IT,Elba,Marina di Campo Airport,EBA
+306,Italy,IT,Florence,Aeroporto di Firenze,FLR
+307,Italy,IT,Foggia,"Aeroporto di Foggia ""Gino Lisa""",FOG
+308,Italy,IT,Forli,Forli Airport,FRL
+309,Italy,IT,Genoa,Genoa Cristoforo Colombo Airport,GOA
+310,Italy,IT,Grosseto,Grosseto Airport,GRS
+311,Italy,IT,Lamezia Terme,Lamezia Terme Airport,SUF
+312,Italy,IT,Lampedusa,Lampedusa Airport,LMP
+313,Italy,IT,Milan,Milano Orio al Serio International Airport,BGY
+314,Italy,IT,Milan,Milano Linate,LIN
+315,Italy,IT,Milan,Milano Malpensa,MXP
+316,Italy,IT,Montichiari,Brescia Airport,VBS
+317,Italy,IT,Naples,Aeroporto Internazionale di Napoli,NAP
+318,Italy,IT,Olbia,Aeroporto Olbia Costa Smeralda,OLB
+319,Italy,IT,Palermo,Falcone e Borsellino Palermo Airport,PMO
+320,Italy,IT,Pantelleria,Pantelleria Airport,PNL
+321,Italy,IT,Parma,Parma International Airport,PMF
+322,Italy,IT,Perugia,Perugia Airport,PEG
+323,Italy,IT,Pescara,Abruzzo Airport,PSR
+324,Italy,IT,Pisa,Pisa International Airport,PSA
+325,Italy,IT,Reggio,Reggio Calabria Airport,REG
+326,Italy,IT,Rimini,Rimini Federico Fellini Airport,RMI
+327,Italy,IT,Rome,Aeroporto di Roma-Ciampino,CIA
+328,Italy,IT,Rome,Aeroporto di Roma-Fiumicino,FCO
+329,Italy,IT,Salerno,Salerno Costa d'Amalfi Airport,QSR
+330,Italy,IT,Taranto,Aeroporto di Grottaglie,TAR
+331,Italy,IT,Trapani,Trapani Birgi Airport,TPS
+332,Italy,IT,Treviso,Treviso Airport,TSF
+333,Italy,IT,Trieste,Aeroporto di Trieste,TRS
+334,Italy,IT,Turin,Turin Airport,TRN
+335,Italy,IT,Venice,Aeroporto di Venezia Marco Polo,VCE
+336,Italy,IT,Verona,Verona Airport,VRN
+337,Latvia,LV,Riga,Riga International Airport,RIX
+338,Lithuania,LT,Kaunas,Kaunas Airport,KUN
+339,Lithuania,LT,Palanga,Palanga Airport,PLQ
+340,Lithuania,LT,Siauliai,Siauliai International Airport,SQQ
+341,Lithuania,LT,Vilnius,Vilnius International Airport,VNO
+342,Luxembourg,LU,Luxembourg,Luxembourg-Findel International Airport,LUX
+343,Malta,MT,Malta,Malta International Airport,MLA
+344,"Moldova, Republic of",MD,Chisinau,Chisinau Airport,KIV
+345,Monaco,MC,Monaco,HÃ©liport de Monaco-Fontvielle,MCM
+346,Montenegro,ME,Podgorica,Podgorica Airport,TGD
+347,Montenegro,ME,Tivat,Tivat Airport,TIV
+348,Netherlands,NL,Amsterdam,Amsterdam Airport Schiphol,AMS
+349,Netherlands,NL,Eindhoven,Eindhoven Airport,EIN
+350,Netherlands,NL,Groningen,Groningen Airport Eelde,GRQ
+351,Netherlands,NL,Maastricht,Maastricht Aachen Airport,MST
+352,Netherlands,NL,Rotterdam,Rotterdam The Hague Airport,RTM
+353,Norway,NO,Aalesund,Aalesund Airport,AES
+354,Norway,NO,Alta,Alta Airport,ALF
+355,Norway,NO,Andoya,"Andoya, Andenes Airport",ANX
+356,Norway,NO,Bardufoss,Bardufoss Airport,BDU
+357,Norway,NO,Batsfjord,Batsfjord Airport,BJF
+358,Norway,NO,Bergen,Bergen Airport,BGO
+359,Norway,NO,Berlevag,Berlevag Airport,BVG
+360,Norway,NO,Bodo,Bodo Airport,BOO
+361,Norway,NO,Bronnoysund,Bronnoysund Airport,BNN
+362,Norway,NO,Fagernes,Valdres Airport,VDB
+363,Norway,NO,Floro,Floro Airport,FRO
+364,Norway,NO,Forde,"Forde, Bringeland Airport",FDE
+365,Norway,NO,Hammerfest,Hammerfest Airport,HFT
+366,Norway,NO,Harstad,Evenes Airport,EVE
+367,Norway,NO,Hasvik,Hasvik Airport,HAA
+368,Norway,NO,Haugesund,Haugesund Airport,HAU
+369,Norway,NO,Honningsvag,Honningsvag Airport,HVG
+370,Norway,NO,Kirkenes,Kirkenes Airport,KKN
+371,Norway,NO,Kristiansand,Kristiansand Airport,KRS
+372,Norway,NO,Kristiansund,Kristiansund Airport,KSU
+373,Norway,NO,Lakselv,Lakselv Airport,LKL
+374,Norway,NO,Leknes,Leknes Airport,LKN
+375,Norway,NO,Longyearbyen,Svalbard Airport,LYR
+376,Norway,NO,Mehamn,Mehamn Airport,MEH
+377,Norway,NO,Mo i Rana,Mo i Rana Airport,MQN
+378,Norway,NO,Molde,Molde Airport,MOL
+379,Norway,NO,Mosjoen,Mosjoen Airport,MJF
+380,Norway,NO,Moss,Moss/Rygge Airport,RYG
+381,Norway,NO,Namsos,Namsos Airport,OSY
+382,Norway,NO,Narvik,Narvik Framnes Airport,NVK
+383,Norway,NO,Notodden,Notodden Airport,NTB
+384,Norway,NO,Orland,Orlandet Airport,OLA
+385,Norway,NO,Orsta,Orsta-Volda Airport,HOV
+386,Norway,NO,Oslo,Oslo-Garnemoen Airport,OSL
+387,Norway,NO,Roeros,Roeros Airport,RRS
+388,Norway,NO,Rorvik,Rorvik Airport,RVK
+389,Norway,NO,Rost,Rost Airport,RET
+390,Norway,NO,Sandane,Sandane Airport,SDN
+391,Norway,NO,Sandefjord,Sandefjord Torp Airport,TRF
+392,Norway,NO,Sandnessjoen,SandnessjÃ¸en Airport,SSJ
+393,Norway,NO,Skien,Skien Airport,SKE
+394,Norway,NO,Sogndal,Sogndal Haukasen Airport,SOG
+395,Norway,NO,Sorkjosen,Sorkjosen Airport,SOJ
+396,Norway,NO,Stavanger,Stavanger Airport,SVG
+397,Norway,NO,Stokmarknes,Stokmarknes Airport,SKN
+398,Norway,NO,Stord,Stord Airport,SRP
+399,Norway,NO,Svolvaer,Svolvaer Airport,SVJ
+400,Norway,NO,Tromsoe,Tromsoe Airport,TOS
+401,Norway,NO,Trondheim,Trondheim Airport,TRD
+402,Norway,NO,Vadso,Vadsoe Airport,VDS
+403,Norway,NO,Vaeroy,Vaeroy Heliport,VRY
+404,Norway,NO,Vardo,Vardoe Airport,VAW
+405,Poland,PL,Babimost,Zielona GÃ³ra â Babimost,IEG
+406,Poland,PL,Bydgoszcz,Bydgoszcz Airport,BZG
+407,Poland,PL,Gdansk,Gdansk Rebiechowo Airport,GDN
+408,Poland,PL,Katowice,Katowice Intl Airport - GTL S.A.,KTW
+409,Poland,PL,Krakow,The John Paul II International Airport Krakow - Balice,KRK
+410,Poland,PL,Lodz,Lodz Wladyslaw Reymonta Airport,LCJ
+411,Poland,PL,Lublin,Lublin Airport,LUZ
+412,Poland,PL,Poznan,PoznaÅ-Åawica Airport,POZ
+413,Poland,PL,Radom,Radom Airport,RDO
+414,Poland,PL,RzeszÃ³w,RzeszÃ³w - Jasionka Airport,RZE
+415,Poland,PL,Szczecin,Solidarity Szczecin-Goleniow Airport,SZZ
+416,Poland,PL,Szymany,Olsztyn-Mazury Airport,SZY
+417,Poland,PL,Warsaw,Warsaw Frederic Chopin Airport,WAW
+418,Poland,PL,Warsaw,Warsaw-Modlin Mazovia Airport,WMI
+419,Poland,PL,Wroclaw,Wroclaw Nicolaus Copernicus Airport,WRO
+420,Portugal,PT,Beja,Beja Airport,BYJ
+421,Portugal,PT,Calheta,SÃ£o Jorge Airport,SJZ
+422,Portugal,PT,Faro,Faro Airport,FAO
+423,Portugal,PT,Flores,Flores Airport,FLW
+424,Portugal,PT,Funchal,Madeira Airport,FNC
+425,Portugal,PT,Horta,Horta Airport,HOR
+426,Portugal,PT,Lajes,Lajes Field,TER
+427,Portugal,PT,Lisbon,Lisbon Airport,LIS
+428,Portugal,PT,Pico Island,Pico Airport,PIX
+429,Portugal,PT,Ponta Delgada,Joao Paulo II Airport,PDL
+430,Portugal,PT,Porto,Porto Airport,OPO
+431,Portugal,PT,Porto Santo,Porto Santo Airport,PXO
+432,Portugal,PT,Santa Cruz da Graciosa,Graciosa Airport,GRW
+433,Portugal,PT,Santa Maria,Santa Maria Airport,SMA
+434,Portugal,PT,Vila do Corvo,Corvo Airport,CVU
+435,Romania,RO,Arad,Arad International Airport,ARW
+436,Romania,RO,Bacau,Bacau Airport,BCM
+437,Romania,RO,Baia Mare,Baia Mare Airport,BAY
+438,Romania,RO,Bucharest,Bucharest Baneasa Aurel Blaicu International Airport,BBU
+439,Romania,RO,Bucharest,Henri Coanda International Airport,OTP
+440,Romania,RO,Cluj,Cluj Avram Iancu International Airport,CLJ
+441,Romania,RO,Constanta,Mihail Kogalniceanu International Airport,CND
+442,Romania,RO,Craiova,Aeroportul Craiova,CRA
+443,Romania,RO,Iasi,Iasi Airport,IAS
+444,Romania,RO,Oradea,Oradea Airport,OMR
+445,Romania,RO,Satu Mare,Satu Mare International Airport,SUJ
+446,Romania,RO,Sibiu,Aeroportul International Sibiu,SBZ
+447,Romania,RO,Suceava,Suceava Airport,SCV
+448,Romania,RO,Targu Mures,Targu Mures Airport,TGM
+449,Romania,RO,Timisoara,TimiÅoara Traian Vuia International Airport,TSR
+450,Romania,RO,Tulcea,"Aeroportul International "" Delta Dunarii "" Tulcea",TCE
+451,Russian Federation,RU,Abakan,Abakan International Airport,ABA
+452,Russian Federation,RU,Anadyr,Anadyr Airport,DYR
+453,Russian Federation,RU,Anapa,Anapa Airport,AAQ
+454,Russian Federation,RU,Arkhangelsk,Arkhangelsk Airport,ARH
+455,Russian Federation,RU,Astrakhan,Astrakhan Airport,ASF
+456,Russian Federation,RU,Barnaul,Barnaul International Airport,BAX
+457,Russian Federation,RU,Belgorod,Belgorod Airport,EGO
+458,Russian Federation,RU,Beloyarsky,Beloyarsky Airport,EYK
+459,Russian Federation,RU,Blagovenschensk,Blagoveschensk Airport,BQS
+460,Russian Federation,RU,Bogorodskoye,Bogorodskoye Airport,BQG
+461,Russian Federation,RU,Bugulma,Bugulma Airport,UUA
+462,Russian Federation,RU,Cheboksary,Cheboksary Airport,CSY
+463,Russian Federation,RU,Chelyabinsk,Chelyabinsk International Airport,CEK
+464,Russian Federation,RU,Chita,Chita Airport,HTA
+465,Russian Federation,RU,Ekaterinburg,Koltsovo Airport,SVX
+466,Russian Federation,RU,Gelendzhik,Gelendzhik Airport,GDZ
+467,Russian Federation,RU,Gorno-Altaysk,Gorno-Altaysk Airport,RGK
+468,Russian Federation,RU,Irkutsk,Irkutsk Airport,IKT
+469,Russian Federation,RU,Ivanovo,Ivanovo Yuzhny Airport,IWA
+470,Russian Federation,RU,Izhevsk,Izhevsk Airport,IJK
+471,Russian Federation,RU,Kaliningrad,Kaliningrad International Airport,KGD
+472,Russian Federation,RU,Kaluga,Kaluga (Grabtsevo) Airport,KLF
+473,Russian Federation,RU,Kazan,Kazan Airport,KZN
+474,Russian Federation,RU,Kemerovo,Kemerovo Airport,KEJ
+475,Russian Federation,RU,Keperveyem,Keperveyem Airport,KPW
+476,Russian Federation,RU,Khabarovsk,Novyy Airport,KHV
+477,Russian Federation,RU,Khanty-Mansiysk,Khanty-Mansiysk Airport,HMA
+478,Russian Federation,RU,Khatanga,Khatanga Airport,HTG
+479,Russian Federation,RU,Kirov,Pobedilovo Airport,KVX
+480,Russian Federation,RU,Kogalym,Kogalym International Airport,KGP
+481,Russian Federation,RU,Komsomolsk Na Amure,Komsomolsk Na Amure Airport,KXK
+482,Russian Federation,RU,Krasnodar,Krasnodar Airport,KRR
+483,Russian Federation,RU,Krasnojarsk,Krasnoyarsk Airport,KJA
+484,Russian Federation,RU,Kursk,Kursk Vostochny Airport,URS
+485,Russian Federation,RU,Kyzyl,Kyzyl Airport,KYZ
+486,Russian Federation,RU,Lensk,Lensk Airport,ULK
+487,Russian Federation,RU,Magadan,Magadan Airport,GDX
+488,Russian Federation,RU,Magnitogorsk,Magnitogorsk Airport,MQF
+489,Russian Federation,RU,Makhachkala,Makhachkala Airport,MCX
+490,Russian Federation,RU,Markovo,Markovo Airport,KVM
+491,Russian Federation,RU,Mineralnye Vody,Mineralnye Vody International Airport,MRV
+492,Russian Federation,RU,Mirny,Mirny Airport,MJZ
+493,Russian Federation,RU,Moscow,Moscow Domodedovo Airport,DME
+494,Russian Federation,RU,Moscow,Sheremetyevo International Airport,SVO
+495,Russian Federation,RU,Moscow,Vnukovo International Airport,VKO
+496,Russian Federation,RU,Murmansk,Murmansk Airport,MMK
+497,Russian Federation,RU,Naberevnye Chelny,Naberevnye Chelny Airport,NBC
+498,Russian Federation,RU,Nadym,Nadym Airport,NYM
+499,Russian Federation,RU,Nikolayevsk-on-Amur,Nikolayevsk-on-Amur Airport,NLI
+500,Russian Federation,RU,Nizhnevartosvsk,Nizhnevartovsk Airport,NJC
+501,Russian Federation,RU,Nizhniy Novgorod,"Airports of regions, CJSC, Nizhniy Novgorod Airport",GOJ
+502,Russian Federation,RU,Nogliki,Nogliki Airport,NGL
+503,Russian Federation,RU,Noril'sk,Noril'sk Airport,NSK
+504,Russian Federation,RU,Novokuznetsk,Novokuznetsk Airport,NOZ
+505,Russian Federation,RU,Novosibirsk,Novosibirsk International Airport Tolmachevo,OVB
+506,Russian Federation,RU,Novostroyka,Okha Airport,OHH
+507,Russian Federation,RU,Novyj Urengoj,Novyj Urengoj Airport,NUX
+508,Russian Federation,RU,Noyabrsk,Noyabrsk Airport,NOJ
+509,Russian Federation,RU,Okhotsk,Okhotsk Airport,OHO
+510,Russian Federation,RU,Omsk,Omsk Airport,OMS
+511,Russian Federation,RU,Orenburg,Orenburg Airport,REN
+512,Russian Federation,RU,Penza,Penza Airport,PEZ
+513,Russian Federation,RU,Perm,Perm Airport,PEE
+514,Russian Federation,RU,Petropavlovsk-Kamchats,Yelisovo Airport,PKC
+515,Russian Federation,RU,Pevek,Pevek Airport,PWE
+516,Russian Federation,RU,Rostov,Rostov On Don Airport,ROV
+517,Russian Federation,RU,Saint Petersburg,Pulkovo Airport,LED
+518,Russian Federation,RU,Samara,Kurumoch International Airport,KUF
+519,Russian Federation,RU,Saransk,Saransk Airport,SKX
+520,Russian Federation,RU,Saratov,Saratov Airport,RTW
+521,Russian Federation,RU,Shakhtyorsk,Shakhtyorsk Airport,EKS
+522,Russian Federation,RU,Simferopol,Simferopol International Airport,SIP
+523,Russian Federation,RU,Sochi,Adler-Sochi Airport,AER
+524,Russian Federation,RU,Stavropol,Stavropol Airport,STW
+525,Russian Federation,RU,Strezhevoy,Strezhevoy Airport,SWT
+526,Russian Federation,RU,Surgut,Surgut Airport,SGC
+527,Russian Federation,RU,Syktyvkar,Syktyvkar Airport,SCW
+528,Russian Federation,RU,Tambov,Tambov Donskoye Airport,TBW
+529,Russian Federation,RU,Tiksi,Tiksi Airport,IKS
+530,Russian Federation,RU,Tomsk,Tomsk Airport,TOF
+531,Russian Federation,RU,Tynda,Tynda Airport,TYD
+532,Russian Federation,RU,Tyumen,Tyumen Airport,TJM
+533,Russian Federation,RU,Ufa,UFA International Airport,UFA
+534,Russian Federation,RU,Ulan-Ude,Ulan-Ude Airport,UUD
+535,Russian Federation,RU,Ulyanovsk,Ulyanovsk Airport,ULY
+536,Russian Federation,RU,Vladikavkaz,Vladikavkaz Airport,OGZ
+537,Russian Federation,RU,Vladivostok,Vladivostok Airport,VVO
+538,Russian Federation,RU,Volgograd,Volgograd International Airport,VOG
+539,Russian Federation,RU,Vorkuta,Vorkuta Airport,VKT
+540,Russian Federation,RU,Voronezh,Voronezh Airport,VOZ
+541,Russian Federation,RU,Yakutia,Polyarny Airport,PYJ
+542,Russian Federation,RU,Yakutsk,Yakutsk International Airport,YKS
+543,Russian Federation,RU,Yaroslavl,Tunoshna Airport,IAR
+544,Russian Federation,RU,Yoshkar-Ola,Yoshkar-Ola Airport,JOK
+545,Russian Federation,RU,Yuzhno-Sakhalinsk,Yuzhno-Sakhalinsk Airport,UUS
+546,Serbia,RS,Belgrade,Belgrade Nikola Tesla Airport,BEG
+547,Serbia,RS,Nis,NiÅ¡ Constantine the Great Airport,INI
+548,Slovakia,SK,Bratislava,M. R. Å tefÃ¡nik Airport,BTS
+549,Slovakia,SK,Kosice,Kosice Airport,KSC
+550,Slovakia,SK,Piestany,Piestany Airport,PZY
+551,Slovakia,SK,Poprad,Poprad-Tatry Airport,TAT
+552,Slovakia,SK,Sliac,Sliac Airport,SLD
+553,Slovakia,SK,Å½ilina,Å½ilina Airport,ILZ
+554,Slovenia,SI,Ljubljana,Aerodrom Ljubljana International Airport,LJU
+555,Slovenia,SI,Maribor,Maribor Airport,MBX
+556,Slovenia,SI,SeÄovlje,PortoroÅ¾ Airport,POW
+557,Spain,ES,A CoruÃ±a,Aeropuerto de A CoruÃ±a,LCG
+558,Spain,ES,Albacete,Aeropuerto de Albacete,ABC
+559,Spain,ES,Algeciras,Algeciras Heliport,AEI
+560,Spain,ES,Alicante,Aeropuerto de Alicante-Elche,ALC
+561,Spain,ES,AlmerÃ­a,Aeropuerto de AlmerÃ­a,LEI
+562,Spain,ES,Asturias,Aeropuerto de Asturias,OVD
+563,Spain,ES,Badajoz,Aeropuerto de Badajoz,BJZ
+564,Spain,ES,Barcelona,Aeropuerto de Barcelona-El Prat,BCN
+565,Spain,ES,Bilbao,Aeropuerto de Bilbao,BIO
+566,Spain,ES,Burgos,Aeropuerto de Burgos,RGS
+567,Spain,ES,Ceuta,Ceuta Heliport,JCU
+568,Spain,ES,CÃ³rdoba,Aeropuerto de CÃ³rdoba,ODB
+569,Spain,ES,Fuerteventura,Aeropuerto de Fuerteventura,FUE
+570,Spain,ES,Girona,Aeropuerto de Girona â Costa Brava,GRO
+571,Spain,ES,Gran Canaria,Aeropuerto de Gran Canaria,LPA
+572,Spain,ES,Granada,Aeropuerto de Federico GarcÃ­aÂ  Lorca Granada-JaÃ©n,GRX
+573,Spain,ES,Hierro,Aeropuerto de Hierro,VDE
+574,Spain,ES,Huesca-Pirineos,Aeropuerto de Huesca Pirineos,HSK
+575,Spain,ES,Ibiza,Aeropuerto de Ibiza,IBZ
+576,Spain,ES,Jerez,Aeropuerto de Jerez,XRY
+577,Spain,ES,La Gomera,Aeropuerto de La Gomera,GMZ
+578,Spain,ES,La Palma,Aeropuerto de La Palma,SPC
+579,Spain,ES,Lanzarote,Aeropuerto de Lanzarote,ACE
+580,Spain,ES,Leon,Aeropuerto de LeÃ³n,LEN
+581,Spain,ES,LogroÃ±o,Aeropuerto de LogroÃ±o - Agoncillo,RJL
+582,Spain,ES,Madrid,Aeropuerto de Cuatro Vientos,111
+583,Spain,ES,Madrid,Aeropuerto de Adolfo SuÃ¡rez Madrid-Barajas,MAD
+584,Spain,ES,Madrid,Aeropuerto de Torrejon de Ardoz,TOJ
+585,Spain,ES,MÃ¡laga,Aeropuerto de MÃ¡laga - Costa del Sol,AGP
+586,Spain,ES,Melilla,Aeropuerto de Melilla,MLN
+587,Spain,ES,Menorca,Aeropuerto de Menorca,MAH
+588,Spain,ES,Murcia,Aeropuerto de San Javier/Murcia,MJV
+589,Spain,ES,Murcia,Region de Murcia International Airport,RMU
+590,Spain,ES,Palma de Mallorca,Aeropuerto de Palma de Mallorca,PMI
+591,Spain,ES,Pamplona,Aeropuerto de Pamplona,PNA
+592,Spain,ES,Reus,Aeropuerto de Reus,REU
+593,Spain,ES,Sabadell,Aeropuerto de Sabadell,QSA
+594,Spain,ES,Salamanca,Aeropuerto de Salamanca,SLM
+595,Spain,ES,San SebastiÃ¡n,Aeropuerto de San SebastiÃ¡n,EAS
+596,Spain,ES,Santander,Aeropuerto de Santander,SDR
+597,Spain,ES,Santiago de Compostela,Aeropuerto de Santiago,SCQ
+598,Spain,ES,Sevilla,Aeropuerto de Sevilla,SVQ
+599,Spain,ES,Son Bonet,Aeropuerto de Son Bonet,SBO
+600,Spain,ES,Tenerife,Aeropuerto de Tenerife Norte,TFN
+601,Spain,ES,Tenerife,Aeropuerto de Tenerife Sur,TFS
+602,Spain,ES,Valencia,Aeropuerto de Valencia,VLC
+603,Spain,ES,Valladolid,Aeropuerto de Valladolid,VLL
+604,Spain,ES,Vigo,Aeropuerto de Vigo,VGO
+605,Spain,ES,Vitoria,Aeropuerto de Vitoria,VIT
+606,Spain,ES,Zaragoza,Aeropuerto de Zaragoza,ZAZ
+607,Sweden,SE,Angelholm,Ãngelholm-Helsingborg Airport,AGH
+608,Sweden,SE,Arvidsjaur,Arvidsjaur Airport,AJR
+609,Sweden,SE,BorlÃ¤nge,BorlÃ¤nge Airport,BLE
+610,Sweden,SE,GÃ¤llivare,Kavaheden/Lapland Aiport,GEV
+611,Sweden,SE,Gothenburg,GÃ¶teborg-Landvetter Airport,GOT
+612,Sweden,SE,Hagfors,Hagfors Airport,HFS
+613,Sweden,SE,Halmstad,Halmstad Airport,HAD
+614,Sweden,SE,Hemavan,Hemavan Airport,HMV
+615,Sweden,SE,JÃ¶nkÃ¶ping,JÃ¶nkÃ¶ping Airport,JKG
+616,Sweden,SE,Kalmar,Kalmar Airport,KLR
+617,Sweden,SE,Karlstad,Karlstad Airport,KSD
+618,Sweden,SE,Kiruna,Kiruna Airport,KRN
+619,Sweden,SE,Kramfors,Kramfors/Solleftea Flygplats,KRF
+620,Sweden,SE,Kristianstad,Kristianstad Airport,KID
+621,Sweden,SE,LinkÃ¶ping,LinkÃ¶ping Airport,LPI
+622,Sweden,SE,LuleÃ¥,LuleÃ¥ Airport,LLA
+623,Sweden,SE,Lycksele,Lycksele Airport,LYC
+624,Sweden,SE,Malmo,MalmÃ¶-Sturup Airport,MMX
+625,Sweden,SE,Malung-SÃ¤len,SÃ¤len Trysil Airport,SCR
+626,Sweden,SE,Mora,Mora-Siljan Airport,MXX
+627,Sweden,SE,NorrkÃ¶ping,NorrkÃ¶ping Airport,NRK
+628,Sweden,SE,Orebro,Orebro Airport,ORB
+629,Sweden,SE,Ornskoldsvik,Ornskoldsvik Airport,OER
+630,Sweden,SE,Ostersund,Ãre Ãstersund Airport,OSD
+631,Sweden,SE,Pajala,Pajala Airport,PJA
+632,Sweden,SE,Ronneby,Ronneby Airport,RNB
+633,Sweden,SE,SkellefteÃ¥,SkellefteÃ¥ Airport,SFT
+634,Sweden,SE,Stockholm,Stockholm-Arlanda Airport,ARN
+635,Sweden,SE,Stockholm,Stockholm-Bromma Airport,BMA
+636,Sweden,SE,Stockholm,Stockholm-Skavsta Airport,NYO
+637,Sweden,SE,Stockholm,Stockholm-VÃ¤sterÃ¥s Airport,VST
+638,Sweden,SE,Sundsvall,Sundsvall-HÃ¤rnÃ¶sand Airport,SDL
+639,Sweden,SE,Sveg,Sveg Airport,EVG
+640,Sweden,SE,Torsby,Torsby Airport,TYF
+641,Sweden,SE,TrollhÃ¤ttan,Trollhattan-Vanersborg Airport,THN
+642,Sweden,SE,UmeÃ¥,UmeÃ¥ Airport,UME
+643,Sweden,SE,Vaxjo,Kronoberg Airport,VXO
+644,Sweden,SE,Vilhelmina,Vilhelmina Airport,VHM
+645,Sweden,SE,Visby,Visby Airport,VBY
+646,Switzerland,CH,Basel,Flughafen Basel-Mulhouse-Freiburg,BSL
+647,Switzerland,CH,Bern,Flughafen Bern-Belp,BRN
+648,Switzerland,CH,Geneva,GenÃ¨ve AÃ©roport,GVA
+649,Switzerland,CH,Lugano,Lugano Airport,LUG
+650,Switzerland,CH,Sion,Sion International Airport,SIR
+651,Switzerland,CH,St. Gallen,St. GallenâAltenrhein Airport,ACH
+652,Switzerland,CH,Zurich,Flughafen ZÃ¼rich,ZRH
+653,Ukraine,UA,Chernovtsy,Chernovtsy Airport,CWC
+654,Ukraine,UA,Dnepropetrovsk,Dnepropetrovsk Airport,DNK
+655,Ukraine,UA,Ivano-Frankovsk,Ivano-Frankovsk Airport,IFO
+656,Ukraine,UA,Kharkiv,Kharkiv International Airport,HRK
+657,Ukraine,UA,Kherson,Kherson International Airport,KHE
+658,Ukraine,UA,Kiev,Kiev-Zhulhany International Airport,IEV
+659,Ukraine,UA,Kiev,Boryspil State International Airport,KBP
+660,Ukraine,UA,Krivoy Rog,Krivoy Rog Airport,KWG
+661,Ukraine,UA,Lviv,Lviv International Airport,LWO
+662,Ukraine,UA,Nikolaev,Nikolaev International Airport,NLV
+663,Ukraine,UA,Odessa,Odessa International Airport,ODS
+664,Ukraine,UA,Poltava,Poltava Suprunovka Airport,PLV
+665,Ukraine,UA,Rivne,Rivne International Airport,RWN
+666,Ukraine,UA,Uzhgorod,Uzhgorod Airport,UDJ
+667,Ukraine,UA,Vinnytsia,Vinnytsia Airport (Havryshivka),VIN
+668,Ukraine,UA,Zaporozhye,Zaporozhye International Airport,OZH
+669,United Kingdom,GB,Aberdeen,Aberdeen Airport,ABZ
+670,United Kingdom,GB,Alderney,Alderney Airport,ACI
+671,United Kingdom,GB,Barra,Barra Airport,BRR
+672,United Kingdom,GB,Belfast,Belfast International Airport,BFS
+673,United Kingdom,GB,Belfast,George Best Belfast City Airport,BHD
+674,United Kingdom,GB,Benbecula,Benbecula Airport,BEB
+675,United Kingdom,GB,Birmingham,Balkhash Airport,BHX
+676,United Kingdom,GB,Blackpool,Blackpool International Airport,BLK
+677,United Kingdom,GB,Bournemouth,Bournemouth International Airport,BOH
+678,United Kingdom,GB,Brighton,Shoreham Airport,ESH
+679,United Kingdom,GB,Bristol,Bristol Airport,BRS
+680,United Kingdom,GB,Cambridge,Marshall Airport Cambridge,CBG
+681,United Kingdom,GB,Campbeltown,Campbeltown Airport,CAL
+682,United Kingdom,GB,Cardiff,Cardiff International Airport,CWL
+683,United Kingdom,GB,Carlisle,Carlisle Lake District Airport,CAX
+684,United Kingdom,GB,Coventry,Coventry Airport,CVT
+685,United Kingdom,GB,Derry,City of Derry Airport,LDY
+686,United Kingdom,GB,Doncaster,Doncaster Sheffield Airport,DSA
+687,United Kingdom,GB,Dundee,Dundee Airport,DND
+688,United Kingdom,GB,East Midlands,East Midlands Airport,EMA
+689,United Kingdom,GB,Edinburgh,Edinburgh Airport,EDI
+690,United Kingdom,GB,Exeter,Exeter Airport,EXT
+691,United Kingdom,GB,Glasgow,Glasgow Airport,GLA
+692,United Kingdom,GB,Gloucester,Gloucestershire,GLO
+693,United Kingdom,GB,Guernsey,Guernsey Airports,GCI
+694,United Kingdom,GB,Hawarden,Hawarden Airport,CEG
+695,United Kingdom,GB,Humberside,Humberside International Airport,HUY
+696,United Kingdom,GB,Inverness,Inverness Airport,INV
+697,United Kingdom,GB,Islay,Islay Airport,ILY
+698,United Kingdom,GB,Isle Of Man,Isle of Man Airport,IOM
+699,United Kingdom,GB,Isles of Scilly,Isles Of Scilly,ISC
+700,United Kingdom,GB,Jersey,Jersey Airport,JER
+701,United Kingdom,GB,Kirkwall,Kirkwall Airport,KOI
+702,United Kingdom,GB,Lands End,Land's End Airport,LEQ
+703,United Kingdom,GB,Leeds,Leeds Bradford International Airport,LBA
+704,United Kingdom,GB,Lerwick,Tingwall Airport,LWK
+705,United Kingdom,GB,Liverpool,Liverpool John Lennon Airport,LPL
+706,United Kingdom,GB,London,London Biggin Hill Airport,BQH
+707,United Kingdom,GB,London,London City Airport,LCY
+708,United Kingdom,GB,London,Gatwick Airport,LGW
+709,United Kingdom,GB,London,Heathrow Airport,LHR
+710,United Kingdom,GB,London,London Luton Airport,LTN
+711,United Kingdom,GB,London,Stansted Airport,STN
+712,United Kingdom,GB,Lydd,Lydd International Airport,LYX
+713,United Kingdom,GB,Manchester,Manchester Airport,MAN
+714,United Kingdom,GB,Newcastle,Newcastle International Airport,NCL
+715,United Kingdom,GB,Newquay,Newquay Cornwall Airport,NQY
+716,United Kingdom,GB,Norwich,Norwich Airport,NWI
+717,United Kingdom,GB,Oxford,London Oxford Airport,OXF
+718,United Kingdom,GB,Prestwick,Glasgow Prestwick International Airport,PIK
+719,United Kingdom,GB,Scatsta,Scatsta Airport,SCS
+720,United Kingdom,GB,Southampton,Southampton International Airport,SOU
+721,United Kingdom,GB,Southend,London Southend Airport,SEN
+722,United Kingdom,GB,Stornoway,Stornoway Airport,SYY
+723,United Kingdom,GB,Sumburgh,Sumburgh Airport,LSI
+724,United Kingdom,GB,Swansea,Swansea Airport,SWS
+725,United Kingdom,GB,Teesside,Teesside International Airport,MME
+726,United Kingdom,GB,Tiree,Tiree Airport,TRE
+727,United Kingdom,GB,Wick,Wick Airport,WIC
